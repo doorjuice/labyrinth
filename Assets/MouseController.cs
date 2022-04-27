@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class MouseController : MonoBehaviour
 {
@@ -21,37 +22,48 @@ public class MouseController : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(LeftClick))
         {
-            var target = GetTarget();
-            if (target != null && target.gameObject.layer != LayerMask.NameToLayer("Inactive"))
+            RaycastHit hit;
+            var target = GetTarget(out hit);
+            if (target != null && target.layer != LayerMask.NameToLayer("Inactive"))
             {
+                Debug.Log(target.name);
                 switch (target.tag)
                 {
                     case "Player":
-                        ActivePlayer = target.gameObject;
-                        Debug.Log(ActivePlayer.name);
+                        ActivePlayer = target;
+                        //
                         break;
                     case "Gate":
-                        Debug.Log("Gate");
+                        Debug.Log(target.name);
+                        target.transform.Rotate(0, 90, 0);
                         break;
                     case "Key":
                         Debug.Log("Key");
                         break;
                     default:
-                        Debug.Log($"Unknown target: {target.name} ({target.tag})");
+                        ActivePlayer = null;
                         break;
                 }
-                Debug.Log(target?.name ?? "null");
+            }
+        }
+        else if (Input.GetMouseButtonDown(RightClick))
+        {
+            RaycastHit hit;
+            var target = GetTarget(out hit);
+            if (target != null && target.layer == LayerMask.NameToLayer("Ground"))
+            {
+                ActivePlayer.GetComponent<NavMeshAgent>().SetDestination(hit.point);
             }
         }
     }
 
-    private Collider GetTarget()
+    private GameObject GetTarget(out RaycastHit raycastHit)
     {
         Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-        RaycastHit hit;
-        if (Physics.Raycast(ray, out hit))
+        
+        if (Physics.Raycast(ray, out raycastHit))
         {
-            return hit.collider;
+            return raycastHit.collider.GetComponentInParent<Transform>().gameObject;
         }
         return null;
     }
