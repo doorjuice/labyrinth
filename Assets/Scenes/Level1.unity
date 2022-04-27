@@ -134,6 +134,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -265,6 +269,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -327,6 +335,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -388,6 +400,10 @@ PrefabInstance:
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_Name
       value: WallPanel (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
@@ -456,6 +472,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 27
@@ -517,6 +537,10 @@ PrefabInstance:
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_Name
       value: WallPanel (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
@@ -580,6 +604,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 41
@@ -641,6 +669,10 @@ PrefabInstance:
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_Name
       value: WallEast
+      objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_NavMeshLayer
@@ -715,6 +747,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -777,6 +813,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -838,6 +878,10 @@ PrefabInstance:
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_Name
       value: WallNorth
+      objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_NavMeshLayer
@@ -908,6 +952,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 46
@@ -969,6 +1017,10 @@ PrefabInstance:
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_Name
       value: WallPanel (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
@@ -1032,6 +1084,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 34
@@ -1094,6 +1150,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 40
@@ -1155,6 +1215,10 @@ PrefabInstance:
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_Name
       value: WallPanel (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
@@ -1273,7 +1337,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 614830416}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: PlayArea
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1309,6 +1373,10 @@ PrefabInstance:
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_Name
       value: WallPanel (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
@@ -1415,6 +1483,10 @@ PrefabInstance:
     - target: {fileID: 4125405929387604126, guid: c09c002469edc1f49a5c846f8a8279a7, type: 3}
       propertyPath: m_Name
       value: Ground
+      objectReference: {fileID: 0}
+    - target: {fileID: 4125405929387604126, guid: c09c002469edc1f49a5c846f8a8279a7, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4125405929387604126, guid: c09c002469edc1f49a5c846f8a8279a7, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1525,6 +1597,10 @@ PrefabInstance:
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_Name
       value: WallPanel (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
@@ -1645,6 +1721,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 21
@@ -1764,6 +1844,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 42
@@ -1825,6 +1909,10 @@ PrefabInstance:
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_Name
       value: WallPanel
+      objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
@@ -1888,6 +1976,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 17
@@ -1950,6 +2042,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -2011,6 +2107,10 @@ PrefabInstance:
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_Name
       value: WallPanel (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
@@ -2157,6 +2257,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -2218,6 +2322,10 @@ PrefabInstance:
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_Name
       value: WallPanel (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
@@ -2281,6 +2389,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 38
@@ -2342,6 +2454,10 @@ PrefabInstance:
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_Name
       value: WallPanel (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
@@ -2405,6 +2521,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -2466,6 +2586,10 @@ PrefabInstance:
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_Name
       value: WallPanel (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
@@ -2529,6 +2653,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 18
@@ -2591,6 +2719,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 16
@@ -2651,7 +2783,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1257203099}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Walls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2730,6 +2862,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 31
@@ -2791,6 +2927,10 @@ PrefabInstance:
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_Name
       value: WallPanel (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
@@ -2859,6 +2999,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -2921,6 +3065,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 43
@@ -2972,6 +3120,52 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
   m_PrefabInstance: {fileID: 1348388082}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1355943609
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1355943611}
+  - component: {fileID: 1355943610}
+  m_Layer: 0
+  m_Name: MouseController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1355943610
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1355943609}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9380f11a0a0986d4d9db004ab29872cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  layerMask:
+    serializedVersion: 2
+    m_Bits: 8
+--- !u!4 &1355943611
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1355943609}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -1, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1357882165
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2982,6 +3176,10 @@ PrefabInstance:
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_Name
       value: WallPanel (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
@@ -3050,6 +3248,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -3112,6 +3314,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 29
@@ -3173,6 +3379,10 @@ PrefabInstance:
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_Name
       value: WallPanel (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
@@ -3302,6 +3512,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -3363,6 +3577,10 @@ PrefabInstance:
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_Name
       value: WallSouth
+      objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_NavMeshLayer
@@ -3437,6 +3655,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 39
@@ -3498,6 +3720,10 @@ PrefabInstance:
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_Name
       value: WallPanel (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_IsActive
@@ -3565,6 +3791,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 44
@@ -3626,6 +3856,10 @@ PrefabInstance:
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_Name
       value: WallWest
+      objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_NavMeshLayer
@@ -3700,6 +3934,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 28
@@ -3762,6 +4000,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 19
@@ -3823,6 +4065,10 @@ PrefabInstance:
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_Name
       value: WallPanel (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
@@ -3943,6 +4189,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallPanel (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
       value: 26
@@ -4009,6 +4259,10 @@ PrefabInstance:
     - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_Name
       value: WallPanel (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 780285650766708981, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 780285650766708985, guid: 84d035320ac969241b7ae55a70c56404, type: 3}
       propertyPath: m_RootOrder
