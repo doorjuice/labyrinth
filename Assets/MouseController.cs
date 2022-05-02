@@ -35,6 +35,7 @@ public class MouseController : MonoBehaviour
                         break;
                     case "Gate":
                         Debug.Log(target.name);
+                        //target.GetComponent<Animator>().get
                         target.transform.Rotate(0, 90, 0);
                         break;
                     case "Key":
@@ -63,7 +64,7 @@ public class MouseController : MonoBehaviour
         
         if (Physics.Raycast(ray, out raycastHit))
         {
-            return raycastHit.collider.GetComponentInParent<Transform>().gameObject;
+            //return raycastHit.collider.gameObject.parent;
         }
         return null;
     }
